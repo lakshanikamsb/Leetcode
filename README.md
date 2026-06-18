@@ -42,27 +42,27 @@ This repository contains my LeetCode solutions and the concepts that i have lear
 
 ### Arrays
 Array traversal
-Prefix Sum
-Running Sum
-Finding maximum and minimum values
-Handling duplicates
-Array rotation techniques
+-Prefix Sum
+-Running Sum
+-Finding maximum and minimum values
+-Handling duplicates
+-Array rotation techniques
 
 ### Strings
 String reversal
-Palindrome checking
-Character manipulation
-String merging
+-Palindrome checking
+-Character manipulation
+-String merging
 
 ### Searching
 Binary Search
-Linear Search
+-Linear Search
 
 ### Two Pointer Technique
 Reverse String
-Reverse Vowels
-Two Sum II
-Container With Most Water
+-Reverse Vowels
+-Two Sum II
+-Container With Most Water
 
 ## Total Problems Solved
 29
